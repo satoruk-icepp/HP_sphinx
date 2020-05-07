@@ -1,0 +1,20 @@
+###########################
+Publications
+###########################
+
+Papers & Proceedings
+=====================
+
+* `Large-area MPPC with enhanced VUV sensitivity for liquid xenon scintillation detector <https://www.sciencedirect.com/science/article/pii/S0168900219301858>`_
+
+* `Precise measurement of 3D-position of SiPMs in the liquid xenon gamma-ray detector for the MEGII experiment(Pisa2018 Proceedings) <https://linkinghub.elsevier.com/retrieve/pii/S0168900218314840>`_
+
+* `Scintillator Hodoscope with a Few Millimeter Position Resolution for Cosmic-ray Test Stand(PD18 Proceedings) <https://journals.jps.jp/doi/10.7566/JPSCP.27.012009>`_
+
+Presentations
+=============
+
+* PSI2019
+* Pisa2018
+* Japanese Physics Society(JPS)
+* `2nd & 3rd ETH Zürich-The University of Tokyo Strategic Partnership Symposium on the UN Sustainable Development Goals and Innovation <https://www.s.u-tokyo.ac.jp/UTokyo_ETHZ/activity/symposiums.html>`_
