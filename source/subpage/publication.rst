@@ -13,6 +13,9 @@ Papers & Proceedings
 * `Scintillator Hodoscope with a Few Millimeter Position Resolution for Cosmic-ray Test Stand <https://journals.jps.jp/doi/10.7566/JPSCP.27.012009>`_
    * PD18 Proceedings
 
+* `A Comparative Study on Various Methods for SiPM Gain Calibration <https://journals.jps.jp/doi/10.7566/JPSCP.27.012011>`_
+   * PD18 Proceedings
+
 Thesis
 =======
 
