@@ -47,6 +47,9 @@ Presentations
 * 25th ICEPP Symposium
    * "MEG II実験における液体キセノン検出器の目標位置分解能達成に向けた研究"
 
+* Summer Camp on ILC accelerator and physics / detectors 2017
+   * "ILDハドロンカロリメータ検出層宇宙線試験装置の開発"(July 21, 2017)
+
 Others
 =======
 

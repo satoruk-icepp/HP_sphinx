@@ -1,0 +1,38 @@
+###########################
+Research
+###########################
+
+Keywords: Charged Lepton Flavor Violation, Liquid Xenon, VUV-sensitive MPPC
+
+MEG II
+=============
+
+.. image:: ../img/meg2_jp.jpg
+   :scale: 10%
+   :align: center
+
+MEG II実験は、荷電レプトンフレーバーの破れ(cLFV)と呼ばれる新物理現象の一つである :math:`\mu \to e \gamma` 崩壊を探索する実験です。
+現在の :math:`\mu \to e \gamma` 崩壊の崩壊分岐比はMEG実験で
+:math:`Br(\mu \to e \gamma) < 4.2 \times 10^{-13}(90\% C.L.)` と測定されており、
+MEG II実験では検出器アップグレードによって約10倍の感度向上を見込んでいます。
+
+.. image:: ../img/XECInside.jpg
+   :scale: 30%
+   :align: center
+
+私は特に液体キセノンガンマ線検出器と呼ばれる検出器に携わっています。
+MEG II実験における液体キセノンガンマ線検出器は、入射面を216本の光電子増倍管(Photo Multiplier Tube, PMT)から
+4092個のシリコン半導体光センサー(Multi-Pixel Photon Counter, MPPC)で置き換えることで、MEG実験を上回る精度でガンマ線計測を行うことを目指しています。
+
+
+ILC
+==============================
+
+.. image:: ../img/CRHodoscope.jpg
+   :scale: 10%
+   :align: center
+
+International Linear Collider(ILC)計画は、実現すれば世界最大となる電子陽電子衝突型加速器実験です。
+修士1年の秋まで、ILCのアナログハドロンカロリメータ(Analog Hadron CALorimeter)に関連した研究をしていました。
+図はAHCALの較正用に製作した宇宙線検出器で、プラスチックシンチレーター、光ファイバー(波長変換ファイバー)と
+シリコン半導体光センサー(MPPC)を組み合わせて宇宙線の位置を測定します。
