@@ -33,6 +33,7 @@ Presentations
    * "Precise Measurement of 3D-position of SiPMs in the liquid xenon gamma-ray detector for the MEGII Experiment"(Poster)
 
 * Japanese Physics Society(JPS)/ 日本物理学会
+   * `2020 Autumn <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2020s/kobayashi_jps2020a.pdf>`_
    * `2020 Spring <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2020s/kobayashi_jps2020s.pdf>`_
    * `2019 Autumn <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2019a/kobayashi_jps2019a.pdf>`_
    * `2019 Spring <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2019s/kobayashi_jps2019s.pdf>`_
@@ -50,7 +51,16 @@ Presentations
 * Summer Camp on ILC accelerator and physics / detectors 2017
    * "ILDハドロンカロリメータ検出層宇宙線試験装置の開発"(July 21, 2017)
 
+* 2017 Sep 25-27, CALICE Collaboration Meeting
+   * "Cosmic-ray Test Stand at Tokyo"
+
+* 第7回高エネルギー物理春の学校2017
+   * "ILCハドロンカロリメータ検出層較正用宇宙線カウンターの開発"
+
 Others
 =======
 
 * `uproot: Python/NumpyベースでROOTファイルを読み書きするライブラリ(Qiita記事) <https://qiita.com/catopy/items/5e0d8f42e59127c199c4>`_
+* `VSCodeでサーバー上のファイルを編集する4つの方法(Qiita記事) <https://qiita.com/catopy/items/862c4707387a98afa1a6>`_
+* `CERN開発の解析ツールROOTで自作クラスを扱う(Qiita記事) <https://qiita.com/catopy/items/b80eeaaa0ab1adc95db9>`_
+* `Keynoteの数式環境の中で改行する(Qiita記事) <https://qiita.com/catopy/items/afcf5ea622b40389fc1b>`_
