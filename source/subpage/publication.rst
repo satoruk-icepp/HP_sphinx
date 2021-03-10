@@ -33,7 +33,7 @@ Presentations
    * "Precise Measurement of 3D-position of SiPMs in the liquid xenon gamma-ray detector for the MEGII Experiment"(Poster)
 
 * Japanese Physics Society(JPS)/ 日本物理学会
-   * `2020 Autumn <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2020s/kobayashi_jps2020a.pdf>`_
+   * `2020 Autumn <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2020a/kobayashi_jps2020a.pdf>`_
    * `2020 Spring <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2020s/kobayashi_jps2020s.pdf>`_
    * `2019 Autumn <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2019a/kobayashi_jps2019a.pdf>`_
    * `2019 Spring <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2019s/kobayashi_jps2019s.pdf>`_
