@@ -26,6 +26,12 @@ Master Thesis/修士論文: `Link <http://meg.icepp.s.u-tokyo.ac.jp/docs/theses/
 Presentations
 =============
 
+* ILC Workshop on Potential Experiments (ILCX2021) <https://agenda.linearcollider.org/event/9211/>`_
+   * Invited panelist for Young Scientist Forum (28th Oct)
+
+* Flavor Physics Workshop 2021 <https://agenda.hepl.phys.nagoya-u.ac.jp/indico/conferenceDisplay.py?ovw=True&confId=1771>`_
+   * "Status and Prospects of MEG II experiment" (29th Sep)
+
 * PSI2019
    * "Calibration of VUV-sensitive MPPCs of MEG II Liquid Xenon Gamma-ray Detector"(Poster)
 
@@ -33,6 +39,8 @@ Presentations
    * "Precise Measurement of 3D-position of SiPMs in the liquid xenon gamma-ray detector for the MEGII Experiment"(Poster)
 
 * Japanese Physics Society(JPS)/ 日本物理学会
+   * `2021 Autumn <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2020a/kobayashi_jps2021a.pdf>`_
+   * `2021 Spring <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2020a/kobayashi_jps2021s.pdf>`_
    * `2020 Autumn <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2020a/kobayashi_jps2020a.pdf>`_
    * `2020 Spring <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2020s/kobayashi_jps2020s.pdf>`_
    * `2019 Autumn <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2019a/kobayashi_jps2019a.pdf>`_
