@@ -5,16 +5,32 @@ Publications
 Papers & Proceedings
 =====================
 
+Major contribution
+
 * `Large-area MPPC with enhanced VUV sensitivity for liquid xenon scintillation detector <https://www.sciencedirect.com/science/article/pii/S0168900219301858>`_
 
 * `Precise measurement of 3D-position of SiPMs in the liquid xenon gamma-ray detector for the MEGII experiment <https://linkinghub.elsevier.com/retrieve/pii/S0168900218314840>`_
-   * Pisa2018 Proceedings
+   * Pisa2018 Proceedings, corresponding author
 
 * `Scintillator Hodoscope with a Few Millimeter Position Resolution for Cosmic-ray Test Stand <https://journals.jps.jp/doi/10.7566/JPSCP.27.012009>`_
-   * PD18 Proceedings
+   * PD18 Proceedings, corresponding author
 
 * `A Comparative Study on Various Methods for SiPM Gain Calibration <https://journals.jps.jp/doi/10.7566/JPSCP.27.012011>`_
-   * PD18 Proceedings
+   * PD18 Proceedings, corresponding author
+
+* `Commissioning of liquid Xe detector with VUV-MPPC readout for MEG II experiment <https://pos.sissa.it/340/591>`_
+   * ICHEP Proceedings
+
+* `Towards a New μ→eγ Search with the MEG II Experiment: From Design to Commissioning <https://www.mdpi.com/2218-1997/7/12/466>`_
+
+Minor Contribution
+
+* `The Search for μ+ → e+γ with 10–14 Sensitivity: The Upgrade of the MEG Experiment <The Search for μ+ → e+γ with 10–14 Sensitivity: The Upgrade of the MEG Experiment>`_
+
+* `Search for lepton flavour violating muon decay mediated by a new light particle in the MEG experiment <https://link.springer.com/article/10.1140/epjc/s10052-020-8364-1>`_
+
+* `Optimal design of plastic scintillator counter with multiple SiPM readouts for best time resolution <Optimal design of plastic scintillator counter with multiple SiPM readouts for best time resolution>`_
+   * Pisa2018 Proceedings
 
 Thesis
 =======
@@ -67,6 +83,8 @@ Presentations
 
 Others
 =======
+
+* `素粒子物理国際研究センター インタビュー記事 <http://www.icepp.s.u-tokyo.ac.jp/what/interview/10.html>`_
 
 * `uproot: Python/NumpyベースでROOTファイルを読み書きするライブラリ(Qiita記事) <https://qiita.com/catopy/items/5e0d8f42e59127c199c4>`_
 * `VSCodeでサーバー上のファイルを編集する4つの方法(Qiita記事) <https://qiita.com/catopy/items/862c4707387a98afa1a6>`_

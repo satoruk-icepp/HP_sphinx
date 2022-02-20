@@ -5,16 +5,32 @@ Publications
 Papers & Proceedings
 =====================
 
+Major contribution
+
 * `Large-area MPPC with enhanced VUV sensitivity for liquid xenon scintillation detector <https://www.sciencedirect.com/science/article/pii/S0168900219301858>`_
 
 * `Precise measurement of 3D-position of SiPMs in the liquid xenon gamma-ray detector for the MEGII experiment <https://linkinghub.elsevier.com/retrieve/pii/S0168900218314840>`_
-   * Pisa2018 Proceedings
+   * Pisa2018 Proceedings, corresponding author
 
 * `Scintillator Hodoscope with a Few Millimeter Position Resolution for Cosmic-ray Test Stand <https://journals.jps.jp/doi/10.7566/JPSCP.27.012009>`_
-   * PD18 Proceedings
+   * PD18 Proceedings, corresponding author
 
 * `A Comparative Study on Various Methods for SiPM Gain Calibration <https://journals.jps.jp/doi/10.7566/JPSCP.27.012011>`_
-   * PD18 Proceedings
+   * PD18 Proceedings, corresponding author
+
+* `Commissioning of liquid Xe detector with VUV-MPPC readout for MEG II experiment <https://pos.sissa.it/340/591>`_
+   * ICHEP Proceedings
+
+* `Towards a New μ→eγ Search with the MEG II Experiment: From Design to Commissioning <https://www.mdpi.com/2218-1997/7/12/466>`_
+
+Minor Contribution
+
+* `The Search for μ+ → e+γ with 10–14 Sensitivity: The Upgrade of the MEG Experiment <The Search for μ+ → e+γ with 10–14 Sensitivity: The Upgrade of the MEG Experiment>`_
+
+* `Search for lepton flavour violating muon decay mediated by a new light particle in the MEG experiment <https://link.springer.com/article/10.1140/epjc/s10052-020-8364-1>`_
+
+* `Optimal design of plastic scintillator counter with multiple SiPM readouts for best time resolution <Optimal design of plastic scintillator counter with multiple SiPM readouts for best time resolution>`_
+   * Pisa2018 Proceedings
 
 Thesis
 =======
@@ -26,6 +42,12 @@ Master Thesis/修士論文: `Link <http://meg.icepp.s.u-tokyo.ac.jp/docs/theses/
 Presentations
 =============
 
+* `ILC Workshop on Potential Experiments (ILCX2021) <https://agenda.linearcollider.org/event/9211/>`_
+   * Invited panelist for Young Scientist Forum (28th Oct)
+
+* `Flavor Physics Workshop 2021 <https://agenda.hepl.phys.nagoya-u.ac.jp/indico/conferenceDisplay.py?ovw=True&confId=1771>`_
+   * "Status and Prospects of MEG II experiment" (29th Sep)
+
 * PSI2019
    * "Calibration of VUV-sensitive MPPCs of MEG II Liquid Xenon Gamma-ray Detector"(Poster)
 
@@ -33,6 +55,9 @@ Presentations
    * "Precise Measurement of 3D-position of SiPMs in the liquid xenon gamma-ray detector for the MEGII Experiment"(Poster)
 
 * Japanese Physics Society(JPS)/ 日本物理学会
+   * `2021 Autumn <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2021a/kobayashi_jps2021a.pdf>`_
+   * `2021 Spring <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2021s/kobayashi_jps2021s.pdf>`_
+   * `2020 Autumn <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2020a/kobayashi_jps2020a.pdf>`_
    * `2020 Spring <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2020s/kobayashi_jps2020s.pdf>`_
    * `2019 Autumn <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2019a/kobayashi_jps2019a.pdf>`_
    * `2019 Spring <http://meg.icepp.s.u-tokyo.ac.jp/docs/talks/JPS/2019s/kobayashi_jps2019s.pdf>`_
@@ -50,7 +75,18 @@ Presentations
 * Summer Camp on ILC accelerator and physics / detectors 2017
    * "ILDハドロンカロリメータ検出層宇宙線試験装置の開発"(July 21, 2017)
 
+* 2017 Sep 25-27, CALICE Collaboration Meeting
+   * "Cosmic-ray Test Stand at Tokyo"
+
+* 第7回高エネルギー物理春の学校2017
+   * "ILCハドロンカロリメータ検出層較正用宇宙線カウンターの開発"
+
 Others
 =======
 
+* `素粒子物理国際研究センター インタビュー記事 <http://www.icepp.s.u-tokyo.ac.jp/what/interview/10.html>`_
+
 * `uproot: Python/NumpyベースでROOTファイルを読み書きするライブラリ(Qiita記事) <https://qiita.com/catopy/items/5e0d8f42e59127c199c4>`_
+* `VSCodeでサーバー上のファイルを編集する4つの方法(Qiita記事) <https://qiita.com/catopy/items/862c4707387a98afa1a6>`_
+* `CERN開発の解析ツールROOTで自作クラスを扱う(Qiita記事) <https://qiita.com/catopy/items/b80eeaaa0ab1adc95db9>`_
+* `Keynoteの数式環境の中で改行する(Qiita記事) <https://qiita.com/catopy/items/afcf5ea622b40389fc1b>`_
